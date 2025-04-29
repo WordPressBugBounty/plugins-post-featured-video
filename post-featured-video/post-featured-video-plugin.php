@@ -3,7 +3,7 @@
  * Plugin Name: Post Featured Video
  * Plugin URI:  https://wordpress.org/plugins/post-featured-video
  * Description: Post Featured video plugin is highly customizable. You can display video in the lightbox, enable autoplay for video. It can replace the post featured image with a video.
- * Version:     1.6
+ * Version:     1.7
  * Author:      Galaxy Weblinks
  * Author URI:  https://www.galaxyweblinks.com/
  * License:     GPL2
@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if(!defined('PFVIDEO_PLUGIN_VERSION')){
-	define('PFVIDEO_PLUGIN_VERSION', '1.6');
+	define('PFVIDEO_PLUGIN_VERSION', '1.7');
 }
 if(!defined('PFVIDEO_POST_FEATURED_PLUGINURL')){
 	define('PFVIDEO_POST_FEATURED_PLUGINURL', plugin_dir_url(__FILE__));

@@ -3,9 +3,9 @@
 Contributors: galaxyweblinks
 Tags: Post Featured video, Post thumbnail, Post featured Video, Video Lightbox, Video Popup
 Requires at least: WordPress 4.0 or higher
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.6
+Stable tag: 1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -90,6 +90,9 @@ Yes, Go to the Featured Video menu > General Settings tab and choose settings op
 
 == Changelog ==
 
+= 1.7 =
+- Stable Release
+
 = 1.6 =
 - Stable Release
 
@@ -116,6 +119,9 @@ Fixed Play Button issues
 First Stable Release
 
 == Upgrade Notice ==
+
+= 1.7 =
+- Stable Release
 
 = 1.6 =
 - Stable Release
